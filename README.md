@@ -1,6 +1,5 @@
-<img src= https://raw.githubusercontent.com/fahim-muntasir-niloy/Bangladesh-geojson_project/main/Divisions%20in%20Bangladesh.png>
-
 # About the project
+<img src= https://raw.githubusercontent.com/fahim-muntasir-niloy/Bangladesh-geojson_project/main/Divisions%20in%20Bangladesh.png>
 
 Geo json files contain the lat-long informations about any place, so that it can be mapped. Every country has their unique geo json, that can be used for visualizations. However, for `Bangladesh`, the updated geojson file along with example was not available. This repo is aimed to solve this issue. 
 
